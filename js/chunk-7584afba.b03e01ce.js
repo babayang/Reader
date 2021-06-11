@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-7584afba"],{"0580":function(t,e,n){},bb50:function(t,e,n){"use strict";n.r(e);var u=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"store"},[n("router-view")],1)},a=[],c={data:function(){return{}}},r=c,s=(n("d4ef"),n("2877")),i=Object(s["a"])(r,u,a,!1,null,"da753be2",null);e["default"]=i.exports},d4ef:function(t,e,n){"use strict";n("0580")}}]);
+//# sourceMappingURL=chunk-7584afba.b03e01ce.js.map
